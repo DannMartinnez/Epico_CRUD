@@ -41,7 +41,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -68,6 +67,9 @@ To set up your project locally, we recomend:
 
 ### Prerequisites
 
+Install Netbeans 8.2
+https://www.oracle.com/technetwork/es/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
+
 This prpject was built and executed using this Java Version.
 
 java version "1.8.0_111"
@@ -79,30 +81,19 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.111-b14, mixed mode)
 Install MySQL
 https://dev.mysql.com/downloads/installer/
 
+there must be a MySQL instance on localhost
+
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/DannMartinnez/Epico_CRUD
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+2. Open the project since Netbeans
 
+3. run forms.java class
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- CONTACT -->
 ## Contact
