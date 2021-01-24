@@ -73,7 +73,9 @@ https://www.oracle.com/technetwork/es/java/javase/downloads/jdk-netbeans-jsp-341
 This prpject was built and executed using this Java Version.
 
 java version "1.8.0_111"
+</br>
 Java(TM) SE Runtime Environment (build 1.8.0_111-b14)
+</br>
 Java HotSpot(TM) 64-Bit Server VM (build 25.111-b14, mixed mode)
 
 
