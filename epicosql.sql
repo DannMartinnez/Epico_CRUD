@@ -25,7 +25,7 @@ CREATE TABLE IF NOT EXISTS `epico`.`epico_items` (
   `name` VARCHAR(255) NOT NULL,
   `category` VARCHAR(255) NOT NULL,
   `cost_price` DECIMAL(15,2) NOT NULL,
-  `unit_price` VARCHAR(15,2) NOT NULL,
+  `unit_price` DECIMAL(15,2) NOT NULL,
   `pic_filename` VARCHAR(255) NOT NULL,
   PRIMARY KEY (`iditems`))
 ENGINE = InnoDB
