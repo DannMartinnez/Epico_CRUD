@@ -89,7 +89,7 @@ there must be a MySQL instance on localhost
    ```sh
    git clone https://github.com/DannMartinnez/Epico_CRUD
    ```
-2. Open the project since Netbeans
+2. Open the project with Netbeans
 
 3. run forms.java class
 
@@ -97,6 +97,6 @@ there must be a MySQL instance on localhost
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@DannMartinnez](https://twitter.com/dannMartinnez) - danielf.martinez.q@gmail.com
+Your Name - [@DannMartinnez](https://twitter.com/dannMartinnez)
 
 Project Link: [https://github.com/DannMartinnez/Epico_CRUD](https://github.com/DannMartinnez/Epico_CRUD)
