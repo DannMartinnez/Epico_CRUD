@@ -99,4 +99,4 @@ there must be a MySQL instance on localhost
 
 Your Name - [@DannMartinnez](https://twitter.com/dannMartinnez) - danielf.martinez.q@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/DannMartinnez/Epico_CRUD](https://github.com/DannMartinnez/Epico_CRUD)
