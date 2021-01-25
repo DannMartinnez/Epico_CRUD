@@ -17,8 +17,6 @@
     An awesome CRUD created using Java and MySQL!
     <br />
     <br />
-   ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
 
   </p>
 
