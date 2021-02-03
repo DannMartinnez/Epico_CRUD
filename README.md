@@ -97,6 +97,6 @@ there must be a MySQL instance on localhost
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@DannMartinnez](https://twitter.com/dannMartinnez)
+Twitter - [@DannMartinnez](https://twitter.com/dannMartinnez)
 
 Project Link: [https://github.com/DannMartinnez/Epico_CRUD](https://github.com/DannMartinnez/Epico_CRUD)
